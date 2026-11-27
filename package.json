@@ -2,11 +2,13 @@
   "name": "dbvts-vocal-lab",
   "version": "1.0.0",
   "private": true,
+  "bin": "./node_modules/.bin",
   "scripts": {
     "build": "echo Building web assets"
   },
   "dependencies": {
     "@capacitor/core": "^6.0.0",
-    "@capacitor/android": "^6.0.0"
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
   }
 }
