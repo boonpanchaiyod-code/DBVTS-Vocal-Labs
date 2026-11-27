@@ -1,0 +1,8 @@
+{
+  "appId": "com.rock90s.dbvtslab",
+  "appName": "DBVTS Vocal Lab",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
